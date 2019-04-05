@@ -1,0 +1,3 @@
+[submodule "submodule"]
+	path = submodule
+	url = https://github.com/gameday-cloudreach/a-submodule-repository.git
